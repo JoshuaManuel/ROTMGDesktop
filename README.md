@@ -7,7 +7,7 @@ Just click the icon and you'll be able to play ROTMG fullscreen on your desktop!
 
 You'll need Adobe Flash Projector.
 
-Download it from Adobe's website by following (this link)[https://www.adobe.com/support/flashplayer/debug_downloads.html]
+Download it from Adobe's website by following [this link](https://www.adobe.com/support/flashplayer/debug_downloads.html)
 
 And clicking on "Download the Flash Player Projector."
 
